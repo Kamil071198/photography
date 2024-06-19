@@ -1,0 +1,58 @@
+.nav-item a{
+    color: white !important;
+}
+
+.carousel-caption{
+    position: absolute;
+    margin-top: 20px;
+    margin-bottom: 250px;
+    margin-right: 800px;
+    }
+
+.line 
+{
+    border-bottom: 2px solid #166a90 ;
+}
+.sec1{
+background-color: #100027;
+color: white;
+display: flex;
+}
+.diva1{
+    width: 40%;
+}
+
+.diva2{
+    width: 20%;
+}
+.diva3{
+    width: 20%;
+    margin-left: 50px;
+}
+
+.crd{
+
+        background-color: #100027;
+}
+.crd1{
+    text-align: center;
+    background-color: #100027;
+    color: white;
+}
+
+
+
+
+footer{
+    background-color: #100027;
+    color: white;
+}
+.card{
+    background-color: #100027;
+    color: white;
+     border: 1px solid #130526;
+}
+
+.line1{
+background-color: #100027;
+}
